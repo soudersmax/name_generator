@@ -2,7 +2,7 @@
 
 ## Objective
 
-Randomly generate funny sidekick names using Python code that conforms to established style guidelines
+Randomly generate Benedict Cumberbatch meme names using Python code that conforms to established style guidelines
 
 
 
